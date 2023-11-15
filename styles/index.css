@@ -1,0 +1,12 @@
+footer{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 0.5px;
+    bottom: 0;
+    width: 100%;
+}
+
+.fa-icon{
+    color: white;
+}
